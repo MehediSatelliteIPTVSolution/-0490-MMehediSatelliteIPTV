@@ -82,6 +82,9 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/152
 #EXTINF:-1 tvg-id="" tvg-name="Star Bharat" tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="Hindi",Star Bharat
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/774
 
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi",Zee Tv
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/217
+
 #EXTINF:-1 tvg-id="" tvg-name="Zee TV HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_446/PORTRAIT/CMqUe8No.png" group-title="Hindi",Zee TV HD
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/780
 
@@ -94,6 +97,12 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/867
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Sab" tvg-logo="https://pbs.twimg.com/profile_images/884751550798675968/ephAG_WX_400x400.jpg" group-title="Hindi",Sony Sab
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/657
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="" group-title="Hindi",SONY PAL
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/781
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi",SONY WAH
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/782
 
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://4.bp.blogspot.com/-Hbi5cLg527g/WBh1i3l5t_I/AAAAAAAAKKg/CBWeocE-N6k_np0k-K9ZMp19N77rMCfKQCLcB/s1600/colors-tv-logo-list-of-colors-tv-serials-timings-trp-ratings-2016-new-upcoming-tv-shows.png" group-title="Hindi",Colors
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/105
@@ -129,6 +138,42 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/667
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://pluspng.com/img-png/star-movies-logo-png-star-movies-hd-star-movies-png-300.png" group-title="Movies",Star Movies
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/151
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="Others",Star Movies Select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="Movies",HBO
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/124
+
+#EXTINF:-1 tvg-id="" tvg-name="MN" tvg-logo="https://img.favpng.com/25/16/10/movies-now-television-channel-high-definition-television-mn-png-favpng-wqDfzyxuM8zhBuvMSSYXiwwuu.jpg" group-title="Movies",MN
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/135
+
+#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_fR_MvZpuVo_-EDxTSl8C0jG_m23DAmSBOWQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",MNX
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/134
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World (Dual audio)" tvg-logo="https://img2.pngio.com/home-cinemaworld-world-cinema-png-3508_1128.png" group-title="Movies",Cinema World (Dual audio)
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/156
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="Movies",Fox Movies
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/119
+
+#EXTINF:-1 tvg-id="" tvg-name="Blue Ant Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="Entertainment",Blue Ant Entertainment
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/215
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Movies",MBC2
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/133
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="Entertainment",MBC Action
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/632
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="Movies",MBC Max
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/132
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="Movies",Cinemax
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/669
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="Entertainment",Warner
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/157
@@ -229,8 +274,8 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/645
 #EXTINF:-1 tvg-id="" tvg-name="Nick" tvg-logo="https://logodix.com/logo/900709.png" group-title="Kids",Nick
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/201
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/WKEwYF3.png" group-title="KS",Nick
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/148
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/pt48qLO.png" group-title="KS",Nick Jr
 https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
@@ -241,12 +286,20 @@ https://itpolly.iptv.digijadoo.net/live/sonic/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KARm3uR.png" group-title="KS",Nick
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="https://d1xfgk3mh635yx.cloudfront.net/sites/default/files/styles/original/public/image/featured/1016492-disney-channel-debut-new-worldwide-logo-and-air-look.jpg" group-title="Kids",Disney Channel
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/111
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="Kids",Disney Junior
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/202
 
 #EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://projapoti.live/img/channels/gaan-bangla.jpg" group-title="Bangla",Gaan Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/121
 
 #EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Bangla",Sangeet Bangla
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/644
+
+#EXTINF:-1 tvg-id="" tvg-name="RTV Music" tvg-logo="https://yt3.ggpht.com/a/AGF-l78e56zJN4rIU5OsmjFkXVYsC9faK2OXHcyn6A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",RTV Music
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/650
 
 #EXTINF:-1 tvg-id="" tvg-name="B4U Music" tvg-logo="https://www.exchange4media.com/news-photo/1520499305_cwcokX_B4U_MUSIC_LOGO_NEW.jpg" group-title="Hindi",B4U Music
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/93
